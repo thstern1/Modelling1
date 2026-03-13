@@ -1,6 +1,6 @@
 from point import Point
 
-class Color(Point):
+class ColorPoint(Point):
     """
     Color point class inheriting from Point class
     """
