@@ -11,4 +11,5 @@
 - Explain how to import
 - added __name__ == "__main__" to guard against import runs
 - sorted list of color points 
+- added type checks for x and y 
 - 
